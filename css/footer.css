@@ -1,0 +1,19 @@
+.footer {
+  height: 40px;
+  width: 100%;
+  background: #0f0f0f;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.footer__title {
+  padding-left: 200px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #d0d0d0;
+}
